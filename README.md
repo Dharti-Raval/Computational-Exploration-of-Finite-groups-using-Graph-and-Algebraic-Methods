@@ -1,4 +1,4 @@
-# Visualizing-and-Classifying-Groups-Abstract-Algebra-
+# Computational Exploration of Finite Groups using Graph and Algebraic Methods
 
 Overview:
 
